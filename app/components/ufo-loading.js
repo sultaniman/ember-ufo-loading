@@ -1,0 +1,1 @@
+export { default } from 'ember-ufo-loading/components/ufo-loading';
