@@ -1,5 +1,5 @@
 # Ember-ufo-loading
-I just wrapped this amazing loading animation from [http://codepen.io/biacosta/pen/QwBdBB](CodePen) by [http://codepen.io/biacosta/](biacosta)
+I just wrapped this amazing loading animation from [CodePen](http://codepen.io/biacosta/pen/QwBdBB) by [biacosta](http://codepen.io/biacosta/)
 
 ## Installation
 
@@ -12,7 +12,7 @@ I just wrapped this amazing loading animation from [http://codepen.io/biacosta/p
 ```
 
 ## Look and feel
-![Ember-ufo-loading](https://github.com/imanhodjaev/ember-ufo-loading/blob/master/demo.gif)
+![Ember-ufo-loading](https://raw.githubusercontent.com/imanhodjaev/ember-ufo-loading/master/demo.gif)
 
 * `ember build`
 
