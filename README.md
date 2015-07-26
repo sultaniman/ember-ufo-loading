@@ -1,24 +1,18 @@
 # Ember-ufo-loading
-
-This README outlines the details of collaborating on this Ember addon.
+I just wrapped this amazing loading animation from [http://codepen.io/biacosta/pen/QwBdBB](CodePen) by [http://codepen.io/biacosta/](biacosta)
 
 ## Installation
 
-* `git clone` this repository
-* `npm install`
-* `bower install`
+* `ember install ember-ufo-loading` this repository
 
-## Running
+## Using
 
-* `ember server`
-* Visit your app at http://localhost:4200.
+```hbs
+{{ufo-loading}}
+```
 
-## Running Tests
-
-* `ember test`
-* `ember test --server`
-
-## Building
+## Look and feel
+![Image of Yaktocat](https://github.com/imanhodjaev/ember-ufo-loading/src/demo.gif)
 
 * `ember build`
 
