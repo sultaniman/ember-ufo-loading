@@ -12,16 +12,11 @@ test('it renders', function(assert) {
   // Set any properties with this.set('myProperty', 'value');
   // Handle any actions with this.on('myAction', function(val) { ... });
 
-  this.render(hbs`{{ufo-loading}}`);
-
-  assert.equal(this.$().text(), '');
-
   // Template block usage:
   this.render(hbs`
-    {{#ufo-loading}}
-      template block text
-    {{/ufo-loading}}
+    {{ufo-loading}}
   `);
 
-  assert.equal(this.$().text().trim(), 'template block text');
+  assert.equal(this.$().text().trim().indexOf('Loading...') >= 0, true);
+  assert.equal(this.$().find('.ufo-loading').length > 0, true);
 });
