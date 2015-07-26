@@ -12,7 +12,7 @@ I just wrapped this amazing loading animation from [http://codepen.io/biacosta/p
 ```
 
 ## Look and feel
-![Image of Yaktocat](https://github.com/imanhodjaev/ember-ufo-loading/src/demo.gif)
+![Ember-ufo-loading](https://github.com/imanhodjaev/ember-ufo-loading/blob/master/demo.gif)
 
 * `ember build`
 
